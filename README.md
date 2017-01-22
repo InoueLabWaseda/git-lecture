@@ -7,9 +7,10 @@ Git 教える用。
 1. Git と GitHub
 1. Git の操作
 
-## ダウンロードリンク
+## リンク
 - [Git](https://git-scm.com/)
 - [SourceTree](https://www.sourcetreeapp.com/)
+- [サルでもわかる Git 入門](http://www.backlog.jp/git-guide/intro/intro1_1.html)
 
 ## 間違い探し
 ジブリのセリフから。プルリクで修正してください。
