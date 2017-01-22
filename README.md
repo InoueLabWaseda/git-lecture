@@ -4,8 +4,8 @@ Git 教える用。
 ## 流れ
 1. Git とは
 1. GitHub とは
-1. Git と GitHub
-1. Git の操作
+1. Git での操作
+1. プルリクの出し方
 
 ## リンク
 - [Git](https://git-scm.com/)
