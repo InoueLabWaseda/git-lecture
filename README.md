@@ -7,7 +7,7 @@ Git 教える用。
 1. Git と GitHub
 1. Git の操作
 
-## リンク
+## ダウンロードリンク
 - [Git](https://git-scm.com/)
 - [SourceTree](https://www.sourcetreeapp.com/)
 
