@@ -7,6 +7,10 @@ Git 教える用。
 1. Git と GitHub
 1. Git の操作
 
+## リンク
+- [Git](https://git-scm.com/)
+- [SourceTree](https://www.sourcetreeapp.com/)
+
 ## 間違い探し
 ジブリのセリフから。プルリクで修正してください。
 
@@ -17,7 +21,4 @@ Git 教える用。
 >夢だけど、現実じゃなかった！<br>
 >生きろ。そそたは美しい。<br>
 >黙れ小僧！ 　お前にナンを救えるか？<br>
-
-
-
 
